@@ -15,24 +15,6 @@ This project explores the **CORD-19 metadata dataset** (COVID-19 research papers
 
 ---
 
-## 📂 Project Structure
-```
-Frameworks\_Assignment/
-│
-├── data/
-│   └── metadata.csv        # dataset file (or sample)
-│
-├── notebooks/
-│   └── exploration.ipynb   # optional Jupyter notebook
-│
-├── app/
-│   └── streamlit\_app.py    # Streamlit app
-│
-├── analysis.py             # main script for analysis + plots
-├── requirements.txt        # dependencies
-└── README.md               # project documentation
-````
-
 ## ⚙️ Setup Instructions
 
 **Clone this repository:**
@@ -139,5 +121,6 @@ By completing this project, you will have:
 * Multiple visualizations (bar, histogram, scatter)
 * An interactive Streamlit app
 * Documentation of findings and reflection
+
 
 
