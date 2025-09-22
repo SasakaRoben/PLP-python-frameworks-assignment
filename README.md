@@ -1,5 +1,4 @@
 
-```markdown
 # Frameworks Assignment: CORD-19 Data Exploration
 
 This project explores the **CORD-19 metadata dataset** (COVID-19 research papers) using **pandas**, **matplotlib**, and **seaborn**, and presents the results through a simple **Streamlit web application**.
@@ -121,6 +120,7 @@ By completing this project, you will have:
 * Multiple visualizations (bar, histogram, scatter)
 * An interactive Streamlit app
 * Documentation of findings and reflection
+
 
 
 
