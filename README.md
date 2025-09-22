@@ -1,4 +1,3 @@
-Here’s a polished, copyable version of your **README.md**:
 
 ```markdown
 # Frameworks Assignment: CORD-19 Data Exploration
@@ -18,7 +17,6 @@ This project explores the **CORD-19 metadata dataset** (COVID-19 research papers
 
 ## 📂 Project Structure
 ```
-
 Frameworks\_Assignment/
 │
 ├── data/
@@ -33,10 +31,7 @@ Frameworks\_Assignment/
 ├── analysis.py             # main script for analysis + plots
 ├── requirements.txt        # dependencies
 └── README.md               # project documentation
-
 ````
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -144,4 +139,5 @@ By completing this project, you will have:
 * Multiple visualizations (bar, histogram, scatter)
 * An interactive Streamlit app
 * Documentation of findings and reflection
+
 
